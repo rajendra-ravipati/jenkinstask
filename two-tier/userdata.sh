@@ -18,7 +18,7 @@ cat <<EOM > /var/www/html/index.nginx-debian.html
 </style>
 </head>
 <body>
-<h1>Welcome to $WEBSRV</h1>
+<h1>Welcome to Virgin wifi server $WEBSRV</h1>
 </body>
 </html>
 EOM
